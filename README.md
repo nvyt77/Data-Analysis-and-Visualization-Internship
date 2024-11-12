@@ -16,5 +16,4 @@ The **Social Buzz Reaction Analysis** project is aimed at conducting a thorough 
 ## Technologies Used
 
 - **Power BI**: For data modeling, data visualization and reporting.
-- **SQL**: For data extraction and manipulation.
-- **Access to Social Buzz Data**: Social Buzz's data sets for analysis.
+- **Microsoft SQL Server**: For data extraction and manipulation.
