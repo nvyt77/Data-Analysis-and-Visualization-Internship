@@ -3,6 +3,9 @@
 ## Social Buzz Reaction Analysis using Power BI Report link: 
 https://app.powerbi.com/view?r=eyJrIjoiODEzODcyNzgtZDg5Ny00NmZjLWJhODUtNzE5NmFiNTkwZWEzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ffd6b00a9de4d0204488
 
+## Social Buzz Reaction Analysis Video Presentation:
+https://1drv.ms/v/c/42897e572ef53034/EcRq8JpxhelMjE1dNbf0yjkBfP0h_qOECLFym36x-Suzkg?e=xaEBlh
+
 ## Project Overview
 
 The **Social Buzz Reaction Analysis** project is aimed at conducting a thorough analysis of user reactions to various content categories on the Social Buzz platform. This project leverages Power BI to visualize and analyze the vast amounts of reaction data gathered from over 500 million monthly active users.
